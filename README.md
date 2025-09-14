@@ -96,13 +96,13 @@ Interactive dropdowns and filters
 
 Global maps + recommendations
 
-![Metrics Evaluation](images/{ED44E6ED-A8CF-42BA-ACD7-69960557A3DA}.png)
+![Metrics Evaluation](images/metrics.png)
 
-![Yield Trend Over Years](images/{B47088AF-33CE-4EFD-B478-CBFD462622CA}.png)
+![Yield Trend Over Years](images/yield_trend.png)
 
-![Production HeatMap Animation](images/{B4287394-A66F-4BD0-B7E6-250A462D47AB}.png)
+![Production HeatMap Animation](images/heatmap.png)
 
-![Recommendation Model](images/{8D2192BB-DB13-4134-AF46-3BD39941381C}.png)
+![Recommendation Model](images/recommend.png)
 
 ---
 

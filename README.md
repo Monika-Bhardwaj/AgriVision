@@ -47,7 +47,7 @@ AgriVision/
 ## ⚡ Quickstart
 
 ### 1️⃣ Clone Repository
-```bash
+
 git clone [https://github.com/Monika-Bhardwaj/AgriVision.git](https://github.com/Monika-Bhardwaj/AgriVision.git)
 cd AgriVision
 

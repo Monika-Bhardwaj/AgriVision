@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Data
+data/raw/*
+data/weather/*
+!data/processed/processed_data.csv
+
+# Models
+saved_models/*.pkl
+saved_models/tf_models/
+saved_models/prophet_models/
+
+# Jupyter
+.ipynb_checkpoints
+
+# System
+.DS_Store
+Thumbs.db

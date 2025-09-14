@@ -1,0 +1,13 @@
+data:
+  raw_path: data/raw/merged_crop_data.csv
+  satellite_path: data/raw/processed_satellite.csv
+  processed_path: data/processed/processed_data.csv
+
+models:
+  recommender: saved_models/crop_recommender.pkl
+  prophet: saved_models/prophet_models/
+  tf: saved_models/tf_models/
+
+dashboard:
+  host: 0.0.0.0
+  port: 8050
